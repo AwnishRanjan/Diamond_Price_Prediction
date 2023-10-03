@@ -1,0 +1,2 @@
+# This wil not allow venv(enviroment)file to go into gihub 
+venv/                
